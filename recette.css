@@ -58,6 +58,7 @@ div.contenu{
 }
 h1{
     text-align:center;
+    padding: -50px;
 }
 p.description{
     text-align: center  ;
@@ -151,6 +152,12 @@ table.preparation tr
 * {
     overflow: auto;
 }
+
+
+/*icone reseau sociaux---->*/
+
+
+
 /*style pour ordinateur*/
 
 @media only screen and (min-width: 768px){
